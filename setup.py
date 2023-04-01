@@ -9,8 +9,6 @@ setup(
     name='camap',
     version='0.1.0',
     author='Tariq Daouda',
-    author_email='tariq.daouda@gmail.com',
-    url='https://epitopes.world',
     description='Codon Arrangement MAP Predictor, predicting MHC-I Associated Peptides presentation from mRNA',
     long_description=long_description,
     license='MIT',
