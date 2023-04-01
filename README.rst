@@ -4,6 +4,8 @@ CAMAP
 Codon Arrangement MAP Predictor, predicting MHC-I Associated Peptides presentation from mRNA
 --------------------------------------------------------------------------------------------
 
+Link to the paper: https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009482
+
 CAMAP's main aim is the acceleration of vaccine development through the prediction of epitope candidates on the surface of cells.
 
 
